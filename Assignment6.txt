@@ -1,0 +1,25 @@
+1. 15 splice variants of BRCA2
+2. 29 exons
+3. 28 introns
+4. Chromosome 13
+5. BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, XRCC11
+6. 1
+7. GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTC
+TGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTC
+CTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGA
+ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
+8. 122
+9. 723
+10. ZAR1L (ENSG00000189167) and N4BP2L1 (ENSG00000139597)
+11. rnf32 (ENSBSLG00000001314) and rbm33a (ENSBSLG00000001275)
+12. 1
+13. 4
+14. 26
+15. 11
+16. 29
+17. chromosome 1
+18. 1152
+19. Pasquier, J., Cabau, C., Nguyen, T., Jouanno, E., Severac, D., Braasch, I., Journot, L., Pontarotti, P., Klopp, C., Postlethwait, J. H., Guiguen, Y., & Bobe, J. (2016). Gene evolution and gene expression after whole genome duplication in fish: the PhyloFish database. BMC genomics, 17, 368. https://doi.org/10.1186/s12864-016-2709-z
+or
+Yasumasu, S., Yamada, K., Akasaka, K., Mitsunaga, K., Iuchi, I., Shimada, H., & Yamagami, K. (1992). Isolation of cDNAs for LCE and HCE, two constituent proteases of the hatching enzyme of Oryzias latipes, and concurrent expression of their mRNAs during development. Developmental biology, 153(2), 250–258. https://doi.org/10.1016/0012-1606(92)90110-3
+20. NP_001098292.1
