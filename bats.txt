@@ -1,4 +1,4 @@
 muscle -in infile.fasta -seqtype protein -maxiters 16 -maxmb 30000000 -hydro 5 -hydrofactor 1.2 -log logfile.txt -weight1 clustalw -distance1 kmer6_6 -cluster1 upgmb -sueff 0.1 -root1 pseudo -maxtrees 1 -weight2 clustalw -distance2 pctidkimura -cluster2 upgmb -sueff 0.1 -root2 pseudo -objscore sp -noanchors -out bats_ace2_alignment.fasta
 iqtree2 -nt 12 -bnni -s infile.txt -st AA --sprrad 6 -B 1000 --prefix output
-Syconycteris_australis
+Syconycteris_australis, Thyroptera_tricolor
 Phylogeny is crucial for understanding the relationships between different species and estimating the time of their divergence. It can be used to compare and study the relationships and differences between various genes. Also, nowadays, it's commonly used to study numerous virus strains and develop vaccines.
