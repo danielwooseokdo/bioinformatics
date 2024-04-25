@@ -1,1 +1,6 @@
-The gene that I focused on was XM_037677944.1. ATAC-Seq peaks represents open chromatic regions with regulatory elemeents and RNA-Seq peaks signifies amount of RNA transcripts that shows expression level. Near the beginning of the gene, there are no ATAC-seq peaks but high RNA-seq peaks. It means that this region is highly expressed. One thing I was confused is why there was no ATAC-seq peaks. Maybe theregulatory region of this gene is in different location and promotes expression of this gene from further away.
+The gene that I focused on was XM_037677944.1. 
+ATAC-Seq peaks represents open chromatic regions with regulatory elemeents and RNA-Seq peaks signifies amount of RNA transcripts that shows expression level. 
+Near the beginning of the gene, there are no ATAC-seq peaks but high RNA-seq peaks. It means that this region is highly expressed. 
+One thing I was confused is why there was no ATAC-seq peaks. 
+Maybe theregulatory region of this gene is in different location and promotes expression of this gene from further away.
+However, the peak height of the larval stage is bigger than the diapause stage which means it is more highly expressed in larval stage.
